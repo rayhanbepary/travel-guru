@@ -1,0 +1,32 @@
+export default [
+    {
+        title: "It is a long established fact that",
+        guest: 4,
+        bedrooms: 2,
+        bed: 2,
+        bath: 2,
+        rating: 4.8,
+        price: 46,
+        image: "https://www.linkpicture.com/q/Rectangle-26.png",
+    },
+    {
+        title: "It is a long established fact that",
+        guest: 4,
+        bedrooms: 2,
+        bed: 2,
+        bath: 2,
+        rating: 4.8,
+        price: 46,
+        image: "https://www.linkpicture.com/q/Rectangle-27.png",
+    },
+    {
+        title: "It is a long established fact that",
+        guest: 4,
+        bedrooms: 2,
+        bed: 2,
+        bath: 2,
+        rating: 4.8,
+        price: 46,
+        image: "https://www.linkpicture.com/q/Rectangle-28_1.png",
+    },
+]
